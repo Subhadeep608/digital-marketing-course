@@ -601,6 +601,7 @@ table td:nth-child(3) {
     padding: 8px;
     font-size: 15px;
     text-align: center;
+    text-transform: capitalize;
     border: 1px solid #dee2e6;
     font-weight: 400;
     color: #495057;
